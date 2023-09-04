@@ -1,0 +1,22 @@
+/* html {
+    background-color: darkblue;
+    color: aliceblue;
+} */
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 15px;
+    margin: 0 auto;
+    width: fit-content;
+}
+
+.black_border {
+    margin: 10px;
+    padding: 15px;;
+}
+
+.center-content {
+    margin: 0 auto;
+}
